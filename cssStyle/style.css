@@ -1,0 +1,94 @@
+/**
+    Classes CSS de Index.htm 
+*/
+
+.center{
+    text-align: center;
+    color: #CAD3C8; ;
+}
+
+.body{
+    background-color: #2C3A47;;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    flex-flow: row  ;
+   align-items: center;
+  color:  #CAD3C8;
+}
+
+#menu li{
+ display: inline;
+ padding: 15px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: #CAD3C8;
+    font-size: 20px;
+    
+}
+
+#menu li a:hover {
+    color:#EAB543
+} 
+
+.padding {
+    padding: 30px;
+}
+
+.bordas {
+    border-radius: 30%;
+   
+}
+.cores{
+    border: 1px solid #EAB543; 
+    border-radius: 30%
+}
+
+.la{
+    width: 350px;
+    height: 400px;
+}
+
+/**
+    Classes de CSS - Curiosidde.html
+*/
+
+.end{
+    text-align: end;
+    padding-right: 5%;
+}
+
+.titulo{
+    color: #CAD3C8; 
+    font-size: 25px;
+}
+
+.baaoimage {
+    border: 1px solid #EAB543;
+}
+
+.tm-redes{
+    width: 40px;
+    height: 40px;
+
+}
+
+/**
+    Classes de CSS - Contato.html
+*/
+
+.margem{
+    margin-left: 50px;
+}
+
+.margempage{
+    margin-bottom: 50px;
+}
